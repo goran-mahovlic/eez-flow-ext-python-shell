@@ -1,9 +1,9 @@
 {
-  "name": "eez-flow-ext-postgres",
-  "displayName": "EEZ-Flow postgres extension",
+  "name": "eez-flow-ext-python-shell",
+  "displayName": "EEZ-Flow python-shell extension",
   "version": "0.0.4",
   "author": "Envox",
-  "repository": "https://github.com/eez-open/eez-flow-ext-postgres",
+  "repository": "https://github.com/eez-open/eez-flow-ext-python-shell",
   "license": "GPL-3.0-only",
   "main": "dist/index.js",
   "scripts": {

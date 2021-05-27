@@ -230,7 +230,7 @@ const extension = {
                     ) {
                         sql = sql.replace(new RegExp(`\{${input}\}`, "g"), inputPropertyValue.value);
                     } else {
-                        throw `missing postgres parameter ${input}`;
+                        throw `missing python-shell parameter ${input}`;
                     }
                 });
                 
