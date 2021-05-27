@@ -1,9 +1,9 @@
 {
-  "name": "eez-flow-ext-python-shell",
-  "displayName": "EEZ-Flow python-shell extension",
+  "name": "eez-flow-ext-typescript-template",
+  "displayName": "EEZ-Flow typescript-template extension",
   "version": "0.0.4",
   "author": "Envox",
-  "repository": "https://github.com/eez-open/eez-flow-ext-python-shell",
+  "repository": "https://github.com/eez-open/eez-flow-ext-typescript-template",
   "license": "GPL-3.0-only",
   "main": "dist/index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "eez-flow"
   ],
   "dependencies": {
-    "pg": "latest"
+    "pg": "latest",
+    "typescript": "^4.3.2"
   },
   "devDependencies": {
     "@types/pg": "^7.14.11",
